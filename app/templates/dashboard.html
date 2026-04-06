@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Brief Bot — News briefing studio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/dashboard.css?v=20260406" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span class="brand-name">Brief Bot</span>
+      </div>
+      <nav class="nav">
+        <a class="nav-item active" href="/">Studio</a>
+        <span class="nav-item disabled">Library</span>
+        <span class="nav-item disabled">Settings</span>
+      </nav>
+      <p class="sidebar-foot">Turn any news PDF into a short broadcast-style video.</p>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div>
+          <h1>Studio</h1>
+          <p class="subtitle">Upload a PDF. We will draft the brief and render your video.</p>
+        </div>
+      </header>
+
+      <section class="card upload-card">
+        <h2>New briefing</h2>
+        <p class="hint">Drag a PDF here or click to browse. Ollama runs locally; FFmpeg assembles the video.</p>
+
+        <div id="dropzone" class="dropzone" tabindex="0">
+          <input type="file" id="file" accept=".pdf,application/pdf" hidden />
+          <div class="dropzone-inner">
+            <span class="dz-icon" aria-hidden="true">↑</span>
+            <p><strong>Drop PDF</strong> or click to choose</p>
+            <span class="dz-meta">Max 40 MB</span>
+          </div>
+        </div>
+
+        <div class="row options">
+          <label class="field">
+            <span>Ollama model</span>
+            <input type="text" id="model" value="llama3.2" placeholder="llama3.2" />
+            <span class="field-hint">Must exist locally — run <code>ollama pull llama3.2</code> or pick a name from <code>ollama list</code>.</span>
+          </label>
+        </div>
+
+        <button type="button" class="btn primary" id="btnRun" disabled>Generate video</button>
+      </section>
+
+      <section class="card job-card hidden" id="jobCard">
+        <h2>Progress</h2>
+        <div class="progress-wrap">
+          <div class="progress-bar" id="progressBar"></div>
+        </div>
+        <p class="step" id="stepText">—</p>
+        <ul class="log" id="logList"></ul>
+        <div class="actions hidden" id="doneActions">
+          <a class="btn primary" id="dlVideo" href="#">Download MP4</a>
+          <a class="btn ghost" id="dlBrief" href="#">Download brief JSON</a>
+        </div>
+        <p class="err" id="errText" hidden></p>
+      </section>
+    </main>
+  </div>
+  <script src="/static/dashboard.js?v=20260406"></script>
+</body>
+</html>
