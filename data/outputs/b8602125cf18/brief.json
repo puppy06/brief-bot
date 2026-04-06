@@ -1,0 +1,30 @@
+{
+  "headline": "World's Oldest Tortoise Caught in Viral Crypto Death Scam",
+  "intro": {
+    "script_text": "A global false report of the world's oldest tortoise, Jonathan, has sparked a viral crypto death scam. The Guardian has investigated and found that the account posing as Jonathan's vet was asking for cryptocurrency donations.",
+    "visual_description": "A serious news broadcast with a somber tone. The camera pans across a news desk with a serious-looking anchor, before zooming in on a map of Saint Helena. The image is shot in a dramatic lighting style, with deep shadows and a muted color palette. The pacing is slow and deliberate.",
+    "image_path": "img_004_00.png"
+  },
+  "key_points": [
+    {
+      "script_text": "The fake news report was published by the BBC, Daily Mail, and USA Today, and received over 2 million views on social media.",
+      "visual_description": "A chart showing the number of views on each news outlet's social media post. The image is shot in a bright and colorful style, with a modern aesthetic. The pacing is fast and dynamic.",
+      "image_path": "img_001_01.png"
+    },
+    {
+      "script_text": "The real vet, Joe Hollins, confirmed that Jonathan is alive and well, but the impostor was asking for cryptocurrency donations.",
+      "visual_description": "A photo of Joe Hollins, the real vet, with Jonathan in the background. The image is shot in a warm and natural lighting style, with a relaxed atmosphere. The pacing is calm and gentle.",
+      "image_path": "img_002_00.png"
+    },
+    {
+      "script_text": "Jonathan has been living on Saint Helena since 1882 and has become a local celebrity, appearing on the reverse of the island's 5p coin.",
+      "visual_description": "A photo of Jonathan in his enclosure, with a subtle background image of Saint Helena. The image is shot in a soft and serene style, with a focus on Jonathan's gentle nature. The pacing is slow and peaceful.",
+      "image_path": "img_003_00.png"
+    }
+  ],
+  "summary": {
+    "script_text": "The viral crypto death scam has been debunked, and Jonathan the tortoise is alive and well. The incident highlights the importance of verifying information before sharing it on social media.",
+    "visual_description": "A serious news broadcast with a somber tone. The camera pans across a news desk with a serious-looking anchor, before zooming in on a map of Saint Helena. The image is shot in a dramatic lighting style, with deep shadows and a muted color palette. The pacing is slow and deliberate.",
+    "image_path": "img_004_01.png"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "headline": "Untitled",
+  "title": {
+    "text": "Untitled",
+    "visual_subject": "the primary object, person, or place described in this article"
+  },
+  "intro": {
+    "script_text": "Opening context on Untitled.",
+    "visual_subject": "the main subject of the article",
+    "image_path": ""
+  },
+  "key_points": [
+    {
+      "script_text": "Key angle 1 on Untitled.",
+      "visual_subject": "relevant context for this story",
+      "image_path": ""
+    },
+    {
+      "script_text": "Key angle 2 on Untitled.",
+      "visual_subject": "relevant context for this story",
+      "image_path": ""
+    },
+    {
+      "script_text": "Key angle 3 on Untitled.",
+      "visual_subject": "relevant context for this story",
+      "image_path": ""
+    }
+  ],
+  "summary": {
+    "script_text": "Summary: Untitled.",
+    "visual_subject": "the outcome or takeaway",
+    "image_path": ""
+  }
+}

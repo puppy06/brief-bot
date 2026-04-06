@@ -1,0 +1,30 @@
+{
+  "headline": "World's Oldest Tortoise Caught in Viral Crypto Death Scam",
+  "intro": {
+    "script_text": "The world's oldest tortoise, Jonathan, has been the victim of a viral crypto death scam. A fake X account posing as his vet sparked false reports of his death, soliciting cryptocurrency donations.",
+    "visual_description": "Aerial shot of Saint Helena island with a sunny sky and palm trees swaying in the wind. The camera pans over to a photo of Jonathan the tortoise on a rock, looking content and relaxed. The image is in black and white, with a subtle gradient effect to give it a sense of depth.",
+    "image_path": "img_001_00.png"
+  },
+  "key_points": [
+    {
+      "script_text": "The fake X account claimed Jonathan had passed away peacefully on Saint Helena, but the real vet confirmed that the tortoise is very much alive.",
+      "visual_description": "A split-screen image with a photo of the fake X account's post on one side and a photo of the real vet on the other. The fake post is in color, while the vet's photo is in black and white. The background is blurred to focus attention on the two images.",
+      "image_path": "img_000_01.png"
+    },
+    {
+      "script_text": "Jonathan has lived on the grounds of the governor's mansion on Saint Helena since 1882, making him the world's oldest known land animal.",
+      "visual_description": "A photo of Jonathan in his enclosure, with a caption below stating his age and residency. The image is in color and shows Jonathan looking healthy and happy. The background is blurred to focus attention on the tortoise.",
+      "image_path": "img_002_00.png"
+    },
+    {
+      "script_text": "The scam has caused a stir on the small island of Saint Helena, where Jonathan is a local celebrity and has appeared on the reverse of St Helena's 5p coin.",
+      "visual_description": "A photo of the Saint Helena 5p coin with Jonathan's image on one side. The background is blurred to focus attention on the coin. The image is in color and shows the coin's design clearly.",
+      "image_path": "img_003_00.png"
+    }
+  ],
+  "summary": {
+    "script_text": "Jonathan, the world's oldest tortoise, has been given a second chance after being targeted by a viral crypto death scam. The fake X account claimed he had passed away, but the real vet confirmed that Jonathan is alive and well.",
+    "visual_description": "A photo of Jonathan in his enclosure, with a caption below stating that he is alive and well. The image is in color and shows Jonathan looking healthy and happy. The background is blurred to focus attention on the tortoise.",
+    "image_path": "img_004_00.png"
+  }
+}

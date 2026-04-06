@@ -1,0 +1,34 @@
+{
+  "headline": "Untitled",
+  "title": {
+    "text": "News briefing",
+    "visual_subject": "the primary object, person, or place described in this article"
+  },
+  "intro": {
+    "script_text": "We begin with background on today's lead story. This opening orients viewers to the main facts and why the story matters right now.",
+    "visual_subject": "the main subject of the article",
+    "image_path": ""
+  },
+  "key_points": [
+    {
+      "script_text": "Key point 1 on today's lead story: here we connect concrete details to the wider implications audiences should keep in mind.",
+      "visual_subject": "relevant context for this story",
+      "image_path": ""
+    },
+    {
+      "script_text": "Key point 2 on today's lead story: here we connect concrete details to the wider implications audiences should keep in mind.",
+      "visual_subject": "relevant context for this story",
+      "image_path": ""
+    },
+    {
+      "script_text": "Key point 3 on today's lead story: here we connect concrete details to the wider implications audiences should keep in mind.",
+      "visual_subject": "relevant context for this story",
+      "image_path": ""
+    }
+  ],
+  "summary": {
+    "script_text": "In summary on today's lead story: the reporting ties together several threads worth watching. We will continue to follow developments as more information becomes available.",
+    "visual_subject": "the outcome or takeaway",
+    "image_path": ""
+  }
+}

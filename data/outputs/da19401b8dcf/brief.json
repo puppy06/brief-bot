@@ -1,0 +1,30 @@
+{
+  "headline": "World's Oldest Tortoise Caught in Viral Crypto Death Scam",
+  "intro": {
+    "script_text": "The world's oldest tortoise, Jonathan, has been the victim of a viral crypto death scam. A fake X account posing as his vet sparked false reports of his death, soliciting cryptocurrency donations from around the globe.",
+    "visual_description": "A somber and serious tone is set with a dark blue background, a faint image of Saint Helena in the distance, and the silhouette of Jonathan's shell in the foreground. The camera pans over the island, before zooming in on a news headline about the scam. The lighting is dim, with a slight misty effect to convey a sense of mystery.",
+    "image_path": "img_004_00.png"
+  },
+  "key_points": [
+    {
+      "script_text": "The fake X account, claiming to be Jonathan's vet, posted a heart-wrenching message announcing the tortoise's death, sparking widespread false reports across news outlets.",
+      "visual_description": "A split-screen image with two contrasting visuals: on one side, a photo of the fake X post, and on the other, an actual photo of Jonathan in his enclosure. The color palette is muted, with a focus on blues and grays to convey a sense of sadness and urgency.",
+      "image_path": "img_001_01.png"
+    },
+    {
+      "script_text": "However, checks by the Guardian revealed that the account was based in Brazil, and the real vet confirmed that Jonathan is indeed alive and well.",
+      "visual_description": "A quick cut to a photo of the governor's mansion on Saint Helena, with Jonathan visible in his enclosure. The lighting is bright and cheerful, conveying a sense of relief and happiness. The camera pans out to show the island's landscape.",
+      "image_path": "img_002_00.png"
+    },
+    {
+      "script_text": "The scam has caused concern among the community on the small island, where Jonathan is a local celebrity and a beloved figure.",
+      "visual_description": "A shot of Jonathan himself, looking relaxed and content as he munches on bananas. The camera zooms in on his face, capturing his gentle expression. The background is blurred, focusing attention on the tortoise.",
+      "image_path": "img_003_00.png"
+    }
+  ],
+  "summary": {
+    "script_text": "In a bizarre incident, Jonathan's death was reported as fact by several news outlets, sparking a global frenzy of cryptocurrency donations. However, thanks to the Guardian's investigation, it has been revealed that the tortoise is alive and well.",
+    "visual_description": "A final shot of the Saint Helena island landscape at sunset, with the silhouette of Jonathan's shell in the foreground. The color palette is warm and golden, conveying a sense of resolution and closure. The camera pans out to show the vast expanse of the ocean.",
+    "image_path": "img_004_01.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headline": "World's Oldest Tortoise Caught in Viral Crypto Death Scam",
+  "intro": {
+    "script_text": "A global false report of the world's oldest tortoise, Jonathan, has sparked a viral cryptodeath scam. The BBC, Daily Mail, and USA Today falsely reported his death after an X account posing as his vet broke the news.",
+    "visual_description": "The camera pans over a serene landscape of Saint Helena, with the governor's mansion in the background. The sun is setting, casting a warm orange glow on the scene. Jonathan's shell can be seen peeking out from behind a tree. The mood is calm and peaceful, with a hint of urgency as the news reports unfold.",
+    "image_path": "img_004_00.png"
+  },
+  "key_points": [
+    {
+      "script_text": "The fake X account claimed Jonathan had passed away peacefully on Saint Helena, soliciting cryptocurrency donations from well-wishers. However, checks by the Guardian revealed the account was based in Brazil and not affiliated with Jonathan's real vet.",
+      "visual_description": "A close-up shot of a computer screen displaying the fake news report, with the X account logo prominently displayed. The text is clear and readable, but the overall tone is ominous and warning-like. The camera zooms out to reveal a blurred background, emphasizing the digital nature of the scam.",
+      "image_path": "img_001_01.png"
+    },
+    {
+      "script_text": "Jonathan, a Seychelles giant tortoise, has lived on the grounds of the governor's mansion since 1882 and is now 194 years old. Despite being blind from cataracts and having lost his sense of smell, he remains healthy and active.",
+      "visual_description": "A shot of Jonathan in his enclosure, with the governor's mansion visible through the fence. The camera captures a detailed close-up of Jonathan's face, showcasing his wrinkled skin and wise eyes. The lighting is soft and natural, highlighting the tortoise's gentle nature.",
+      "image_path": "img_002_00.png"
+    },
+    {
+      "script_text": "The scam has caused concern among the community on the small island of Saint Helena, where Jonathan is a local celebrity. The governor's team worked to verify Jonathan's status and reassure the public that he was alive.",
+      "visual_description": "A shot of the governor's office, with officials frantically working on their computers. The camera captures a sense of urgency and chaos, as the news spreads like wildfire. However, the overall tone remains calm and reassuring, emphasizing the efforts to debunk the false report.",
+      "image_path": "img_004_01.png"
+    }
+  ],
+  "summary": {
+    "script_text": "A viral cryptodeath scam targeting Jonathan, the world's oldest tortoise, has been exposed. The fake news report sparked a global frenzy, but checks by the Guardian revealed the account was based in Brazil and not affiliated with Jonathan's real vet.",
+    "visual_description": "A wide shot of Jonathan in his enclosure, with the governor's mansion visible through the fence. The camera pans out to reveal the serene landscape of Saint Helena, with the sun setting in the background. The mood is peaceful and calming, emphasizing the happy ending for Jonathan.",
+    "image_path": "img_004_02.png"
+  }
+}

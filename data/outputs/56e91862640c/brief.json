@@ -1,0 +1,30 @@
+{
+  "headline": "World's Oldest Tortoise Caught in Viral Crypto Death Scam",
+  "intro": {
+    "script_text": "A global false report of the world's oldest tortoise, Jonathan, has sparked a viral crypto death scam. The BBC, Daily Mail, and USA Today falsely reported his death after an X account posing as his vet broke the news.",
+    "visual_description": "The camera pans over a serene landscape before zooming in on a photo of Jonathan, the giant tortoise, sitting on a tree branch with a faint image of the Saint Helena island in the background. The lighting is soft and warm, with a gentle mist rising from the ground. The pace is slow and deliberate, building anticipation for the story to come.",
+    "image_path": "img_001_00.png"
+  },
+  "key_points": [
+    {
+      "script_text": "The fake news report was attributed to 'Joe Hollins', who claimed Jonathan had passed away peacefully on Saint Helena. However, checks by the Guardian revealed the account was based in Brazil.",
+      "visual_description": "A split-screen image shows a photo of the real Joe Hollins with Jonathan on one side, and a screenshot of the fake X post on the other. The images are overlaid with a subtle grid pattern, emphasizing the contrast between reality and deception.",
+      "image_path": "img_002_00.png"
+    },
+    {
+      "script_text": "Jonathan, a Seychelles giant tortoise, is the world's oldest known land animal, having lived on the grounds of the governor's mansion on Saint Helena since 1882.",
+      "visual_description": "A photo of Jonathan in his enclosure, with a caption overlay displaying key facts about his age and residency. The image is shot from a low angle, making Jonathan appear larger than life.",
+      "image_path": "img_003_00.png"
+    },
+    {
+      "script_text": "Despite being blind and losing his sense of smell, Jonathan remains healthy and active, with a strong appetite for bananas and a libido that allows him to mate with two younger tortoises.",
+      "visual_description": "A video clip shows Jonathan eating a banana, with slow-motion footage emphasizing the tortoise's gentle movements. The image is bright and colorful, highlighting Jonathan's vitality.",
+      "image_path": "img_004_00.png"
+    }
+  ],
+  "summary": {
+    "script_text": "The hoax has been resolved, with Jonathan receiving a double helping of his favorite snack in celebration of his resurrection. The incident highlights the importance of verifying information before sharing it widely.",
+    "visual_description": "A final shot of Jonathan sitting on a tree branch, looking content and at peace. The camera pans out to reveal the serene landscape once more, with a subtle fade-to-black effect. The pace is slow and contemplative, leaving the viewer with a sense of closure.",
+    "image_path": "img_004_03.png"
+  }
+}

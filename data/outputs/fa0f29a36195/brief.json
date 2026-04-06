@@ -1,0 +1,30 @@
+{
+  "headline": "World's Oldest Tortoise Caught in Viral Crypto Death Scam",
+  "intro": {
+    "script_text": "A global false report of the world's oldest tortoise, Jonathan, sparked a viral crypto death scam. The BBC, Daily Mail, and USA Today falsely reported his death after an X account posing as his vet broke the news.",
+    "visual_description": "Aerial shot of Saint Helena island with a sunny sky, gentle ocean waves, and lush greenery. The camera pans over the island's landscape before zooming in on a photo of Jonathan the tortoise sitting in front of a colonial-style mansion. The lighting is soft and warm, with a hint of blue to convey a sense of serenity.",
+    "image_path": "img_002_00.png"
+  },
+  "key_points": [
+    {
+      "script_text": "The impostor was indeed asking for cryptocurrency donations at the time the BBC published its report, and later retracted its story after checks by the Guardian revealed the account was based in Brazil.",
+      "visual_description": "A split-screen image with a photo of Jonathan on one side and a screenshot of the fake X account on the other. The colors are muted, with a focus on grays and blues to convey a sense of unease and distrust.",
+      "image_path": "img_001_01.png"
+    },
+    {
+      "script_text": "Jonathan has lived on the grounds of the governor's mansion since 1882 and is a local celebrity who has appeared on the reverse of St Helena's 5p coin.",
+      "visual_description": "A photo of Jonathan in his enclosure, with lush greenery and colorful flowers surrounding him. The lighting is warm and inviting, with a focus on capturing Jonathan's gentle nature.",
+      "image_path": "img_004_00.png"
+    },
+    {
+      "script_text": "Despite being blind from cataracts and having lost his sense of smell, Jonathan remains hale and hearty, with a strong appetite for bananas and a healthy libido.",
+      "visual_description": "A photo of Jonathan eating a banana, with a close-up shot of the fruit and a blurred background to focus attention on the tortoise's actions. The lighting is soft and natural, with a warm color palette.",
+      "image_path": "img_004_02.png"
+    }
+  ],
+  "summary": {
+    "script_text": "The scam has rocked the community on the small island of Saint Helena, where Jonathan is a beloved local celebrity. Fortunately, checks by the Guardian revealed the account was fake, and Jonathan was given a double helping of his favorite snack in celebration of his resurrection.",
+    "visual_description": "A final aerial shot of Saint Helena island at sunset, with a sense of relief and happiness conveyed through the warm colors and gentle ocean waves. The camera pans out to show the island's landscape, with Jonathan's photo appearing on screen one last time.",
+    "image_path": "img_004_03.png"
+  }
+}

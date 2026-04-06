@@ -1,0 +1,30 @@
+{
+  "headline": "World's Oldest Tortoise Caught in Viral Crypto Death Scam",
+  "intro": {
+    "script_text": "The world's oldest tortoise, Jonathan, has been the victim of a viral crypto death scam. A fake X account posing as his vet sparked false reports of his death, soliciting cryptocurrency donations from around the globe.",
+    "visual_description": "Aerial shot of Saint Helena Island, with the governor's mansion in the foreground. The camera pans down to reveal Jonathan, the giant tortoise, slowly making his way across the grassy lawn. The sun is shining, casting a warm glow over the scene. The soundtrack features a gentle, soothing melody.",
+    "image_path": "img_001_00.png"
+  },
+  "key_points": [
+    {
+      "script_text": "The fake X account claimed Jonathan had passed away, sparking false reports from major news outlets including the BBC, Daily Mail, and USA Today.",
+      "visual_description": "A split-screen image showing a screenshot of the fake X post on one side, and a photo of Jonathan's real vet on the other. The camera zooms in on the screenshots to highlight the discrepancy between the two.",
+      "image_path": "img_002_00.png"
+    },
+    {
+      "script_text": "However, checks by the Guardian revealed that the account was based in Brazil and not associated with Jonathan's real vet.",
+      "visual_description": "A close-up shot of a person typing on a computer, with a blurred background to emphasize the focus on the screen. The camera pans out to reveal a news headline reading 'World's oldest tortoise caught in viral crypto death scam'.",
+      "image_path": "img_003_00.png"
+    },
+    {
+      "script_text": "Jonathan is still alive and well, with his vet confirming that he is 'very much alive' and had been receiving regular care.",
+      "visual_description": "A heartwarming shot of Jonathan being fed bananas by one of his keepers. The camera captures the joy and affection in the moment, with a warm color palette to convey a sense of happiness.",
+      "image_path": "img_004_00.png"
+    }
+  ],
+  "summary": {
+    "script_text": "The incident highlights the importance of verifying information before sharing it, especially when it comes to sensitive topics like animal welfare. Jonathan's case serves as a reminder to be cautious and critical in our online interactions.",
+    "visual_description": "A sweeping shot of Saint Helena Island at sunset, with Jonathan's shell visible in the foreground. The camera pans out to reveal the island's stunning natural beauty, symbolizing the importance of protecting our planet's precious resources.",
+    "image_path": "img_004_01.png"
+  }
+}

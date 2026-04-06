@@ -1,0 +1,30 @@
+{
+  "headline": "World's Oldest Tortoise Caught in Viral Crypto Death Scam",
+  "intro": {
+    "script_text": "The world's oldest tortoise, Jonathan, has been the victim of a viral crypto death scam. Despite being falsely reported dead by major news outlets, Jonathan is alive and well on the island of Saint Helena.",
+    "visual_description": "Aerial shot of Saint Helena Island with the governor's mansion in the background. The camera pans down to show Jonathan's enclosure, with the tortoise visible in the distance. The sun is shining, casting a warm glow over the scene. The soundtrack features a gentle, soothing melody, evoking feelings of calmness and serenity.",
+    "image_path": "img_001_00.png"
+  },
+  "key_points": [
+    {
+      "script_text": "The scam began when an X account posing as Jonathan's vet broke the news of his death, soliciting cryptocurrency donations from unsuspecting fans.",
+      "visual_description": "A close-up shot of a person holding a smartphone with the X account's post on the screen. The camera zooms in on the text, highlighting the words 'beloved Jonathan has passed away'. The background is blurred, emphasizing the focus on the phone screen.",
+      "image_path": "img_000_01.png"
+    },
+    {
+      "script_text": "However, checks by the Guardian revealed that the account was based in Brazil and not affiliated with the real vet. The impostor's post received 2 million views before being taken down.",
+      "visual_description": "A shot of a newsroom with multiple screens displaying the same article about Jonathan's supposed death. The camera pans across the room, showing journalists typing away on their computers, looking concerned and disappointed.",
+      "image_path": "img_002_00.png"
+    },
+    {
+      "script_text": "Jonathan has been living on Saint Helena since 1882 and is a local celebrity who has appeared on the reverse of St Helena's 5p coin. Despite being blind and deaf, he remains healthy and active.",
+      "visual_description": "A shot of Jonathan in his enclosure, with the governor's mansion visible through the fence. The camera captures the tortoise's shell glistening in the sunlight, highlighting his age and resilience.",
+      "image_path": "img_003_00.png"
+    }
+  ],
+  "summary": {
+    "script_text": "The incident highlights the dangers of fake news and social media scams. Jonathan's story is a reminder that even the oldest and most iconic creatures can be vulnerable to deception.",
+    "visual_description": "A wide shot of Saint Helena Island at sunset, with the governor's mansion in the foreground. The camera pans out to show the island's landscape, symbolizing the global community coming together to support Jonathan.",
+    "image_path": "img_004_00.png"
+  }
+}
